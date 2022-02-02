@@ -1,0 +1,7 @@
+C:\Users\josel\OneDrive\C# - Udemy\EdadLegal\bin\Debug\EdadLegal.exe.config
+C:\Users\josel\OneDrive\C# - Udemy\EdadLegal\bin\Debug\EdadLegal.exe
+C:\Users\josel\OneDrive\C# - Udemy\EdadLegal\bin\Debug\EdadLegal.pdb
+C:\Users\josel\OneDrive\C# - Udemy\EdadLegal\obj\Debug\EdadLegal.csproj.SuggestedBindingRedirects.cache
+C:\Users\josel\OneDrive\C# - Udemy\EdadLegal\obj\Debug\EdadLegal.csproj.CoreCompileInputs.cache
+C:\Users\josel\OneDrive\C# - Udemy\EdadLegal\obj\Debug\EdadLegal.exe
+C:\Users\josel\OneDrive\C# - Udemy\EdadLegal\obj\Debug\EdadLegal.pdb

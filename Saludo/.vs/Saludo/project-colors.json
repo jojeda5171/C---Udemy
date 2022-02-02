@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f08e4055-c3fb-481a-bc44-0cf6d2fa9262": {
+      "ProjectGuid": "f08e4055-c3fb-481a-bc44-0cf6d2fa9262",
+      "DisplayName": "Saludo",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
