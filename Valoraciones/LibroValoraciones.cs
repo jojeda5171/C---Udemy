@@ -5,6 +5,7 @@ namespace Valoraciones
 {
     public class LibroValoraciones
     {
+        public string Nombre;
         public List<float> valoraciones;
         public LibroValoraciones()
         {

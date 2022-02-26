@@ -6,3 +6,8 @@ C:\Users\josel\OneDrive\C# - Udemy\Valoraciones\bin\Debug\Valoraciones.pdb
 C:\Users\josel\OneDrive\C# - Udemy\Valoraciones\obj\Debug\Valoraciones.csproj.SuggestedBindingRedirects.cache
 C:\Users\josel\OneDrive\C# - Udemy\Valoraciones\obj\Debug\Valoraciones.exe
 C:\Users\josel\OneDrive\C# - Udemy\Valoraciones\obj\Debug\Valoraciones.pdb
+D:\Repositorios\C---Udemy\Valoraciones\obj\Debug\Valoraciones.csproj.AssemblyReference.cache
+D:\Repositorios\C---Udemy\Valoraciones\obj\Debug\Valoraciones.csproj.SuggestedBindingRedirects.cache
+D:\Repositorios\C---Udemy\Valoraciones\obj\Debug\Valoraciones.csproj.CoreCompileInputs.cache
+D:\Repositorios\C---Udemy\Valoraciones\obj\Debug\Valoraciones.exe
+D:\Repositorios\C---Udemy\Valoraciones\obj\Debug\Valoraciones.pdb

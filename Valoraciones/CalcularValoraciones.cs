@@ -2,12 +2,14 @@
 {
     public class CalcularValoraciones
     {
-        public float valoracionMaxima;
-        public float valoracionMinima;
-        public float valoracionPromedio;
+        public float ValoracionMaxima;
+        public float ValoracionMinima;
+        public float ValoracionPromedio;
+        internal string valoracionMinima;
+
         public CalcularValoraciones()
         {
-            valoracionMinima = float.MaxValue;
+            ValoracionMinima = float.MaxValue;
         }
     }
 }

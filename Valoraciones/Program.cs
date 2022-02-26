@@ -9,7 +9,7 @@ namespace Valoraciones
         {
             // Crear el objeto libro
             LibroValoraciones libro = new LibroValoraciones();
-            SpeechSynthesizer hablar = new SpeechSynthesizer();
+            //SpeechSynthesizer hablar = new SpeechSynthesizer();
 
             // Asignar valoraciones
             libro.AgregarValoracion(3.5f);
@@ -20,21 +20,21 @@ namespace Valoraciones
             libro.AgregarValoracion(1);
             libro.AgregarValoracion(0.5f);
 
-            hablar.Speak("Este es el promedio de las valoraciones");
+            //hablar.Speak("Este es el promedio de las valoraciones");
 
             // Publicar valoraciones
             CalcularValoraciones publicar = libro.PublicarValoraciones();
 
             // valoracionMinima
-            Console.WriteLine("Valoracion Minima: " + publicar.valoracionMinima);
+            Console.WriteLine("Valoracion Minima: " + publicar.ValoracionMinima);
 
             // valoracionMaxima
-            Console.WriteLine("Valoracion Maxima: " + publicar.valoracionMaxima);
+            Console.WriteLine("Valoracion Maxima: " + publicar.ValoracionMaxima);
 
             // promedioValoraciones
-            Console.WriteLine("Promedio: " + publicar.valoracionPromedio);
+            Console.WriteLine("Promedio: " + publicar.ValoracionPromedio);
 
-            Console.Beep();
+            //Console.Beep();
             Console.ReadLine();
         }
     }

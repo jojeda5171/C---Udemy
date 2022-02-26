@@ -22,3 +22,27 @@ C:\Users\josel\OneDrive\C# - Udemy\Valoraciones.Test\obj\Debug\Valoraciones.Test
 C:\Users\josel\OneDrive\C# - Udemy\Valoraciones.Test\bin\Debug\Valoraciones.exe
 C:\Users\josel\OneDrive\C# - Udemy\Valoraciones.Test\bin\Debug\Valoraciones.pdb
 C:\Users\josel\OneDrive\C# - Udemy\Valoraciones.Test\bin\Debug\Valoraciones.exe.config
+D:\Repositorios\C---Udemy\Valoraciones.Test\bin\Debug\es\Microsoft.TestPlatform.AdapterUtilities.resources.dll
+D:\Repositorios\C---Udemy\Valoraciones.Test\bin\Debug\es\Microsoft.TestPlatform.CoreUtilities.resources.dll
+D:\Repositorios\C---Udemy\Valoraciones.Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\Repositorios\C---Udemy\Valoraciones.Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\Repositorios\C---Udemy\Valoraciones.Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+D:\Repositorios\C---Udemy\Valoraciones.Test\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Repositorios\C---Udemy\Valoraciones.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Repositorios\C---Udemy\Valoraciones.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Repositorios\C---Udemy\Valoraciones.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Repositorios\C---Udemy\Valoraciones.Test\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\Repositorios\C---Udemy\Valoraciones.Test\bin\Debug\Valoraciones.Test.dll
+D:\Repositorios\C---Udemy\Valoraciones.Test\bin\Debug\Valoraciones.Test.pdb
+D:\Repositorios\C---Udemy\Valoraciones.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Repositorios\C---Udemy\Valoraciones.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Repositorios\C---Udemy\Valoraciones.Test\bin\Debug\Valoraciones.exe
+D:\Repositorios\C---Udemy\Valoraciones.Test\bin\Debug\Valoraciones.pdb
+D:\Repositorios\C---Udemy\Valoraciones.Test\bin\Debug\Valoraciones.exe.config
+D:\Repositorios\C---Udemy\Valoraciones.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Repositorios\C---Udemy\Valoraciones.Test\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Repositorios\C---Udemy\Valoraciones.Test\obj\Debug\Valoraciones.Test.csproj.AssemblyReference.cache
+D:\Repositorios\C---Udemy\Valoraciones.Test\obj\Debug\Valoraciones.Test.csproj.CoreCompileInputs.cache
+D:\Repositorios\C---Udemy\Valoraciones.Test\obj\Debug\Valoraciones.Test.csproj.CopyComplete
+D:\Repositorios\C---Udemy\Valoraciones.Test\obj\Debug\Valoraciones.Test.dll
+D:\Repositorios\C---Udemy\Valoraciones.Test\obj\Debug\Valoraciones.Test.pdb
