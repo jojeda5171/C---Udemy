@@ -9,7 +9,13 @@ namespace Valoraciones
         {
             // Crear el objeto libro
             LibroValoraciones libro = new LibroValoraciones();
+            libro.Nombre = "El libro de valoraciones de José";
+            libro.Nombre =null;
+            Console.WriteLine(libro.Nombre);
+            libro.Idioma = IdiomaLibro.ES;
             //SpeechSynthesizer hablar = new SpeechSynthesizer();
+            Vector3D miVector;
+            miVector.x = 10; miVector.y=20; miVector.z = 30.30f;
 
             // Asignar valoraciones
             libro.AgregarValoracion(3.5f);
@@ -25,17 +31,30 @@ namespace Valoraciones
             // Publicar valoraciones
             CalcularValoraciones publicar = libro.PublicarValoraciones();
 
+            float valoracionMax = publicar.ValoracionMaxima;
+            float valoracionMin = publicar.ValoracionMinima;
+            float promedioValoraciones = publicar.ValoracionPromedio;
+
             // valoracionMinima
-            Console.WriteLine("Valoracion Minima: " + publicar.ValoracionMinima);
+            EscribirValoraciones("Valoracion Minima: ", (int)valoracionMin);
 
             // valoracionMaxima
-            Console.WriteLine("Valoracion Maxima: " + publicar.ValoracionMaxima);
+            EscribirValoraciones("Valoracion Maxima: ", valoracionMax);
 
             // promedioValoraciones
-            Console.WriteLine("Promedio: " + publicar.ValoracionPromedio);
+            EscribirValoraciones("Promedio: ", promedioValoraciones);
 
             //Console.Beep();
             Console.ReadLine();
+        }
+
+        private static void EscribirValoraciones(string descripcion, float valoracion)
+        {
+            Console.WriteLine("{0}" + "{1}", descripcion, valoracion);
+        }
+        private static void EscribirValoraciones(string descripcion, int valoracion)
+        {
+            Console.WriteLine("{0}" + "{1}", descripcion, valoracion);
         }
     }
 }

@@ -11,3 +11,6 @@ D:\Repositorios\C---Udemy\Valoraciones\obj\Debug\Valoraciones.csproj.SuggestedBi
 D:\Repositorios\C---Udemy\Valoraciones\obj\Debug\Valoraciones.csproj.CoreCompileInputs.cache
 D:\Repositorios\C---Udemy\Valoraciones\obj\Debug\Valoraciones.exe
 D:\Repositorios\C---Udemy\Valoraciones\obj\Debug\Valoraciones.pdb
+D:\Repositorios\C---Udemy\Valoraciones\bin\Debug\Valoraciones.exe.config
+D:\Repositorios\C---Udemy\Valoraciones\bin\Debug\Valoraciones.exe
+D:\Repositorios\C---Udemy\Valoraciones\bin\Debug\Valoraciones.pdb

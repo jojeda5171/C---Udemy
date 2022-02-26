@@ -22,7 +22,7 @@ namespace Valoraciones.Test
             libro.AgregarValoracion(1);
             libro.AgregarValoracion(0.5f);
             CalcularValoraciones resultado = libro.PublicarValoraciones();
-            Assert.AreEqual(5, resultado.valoracionMaxima);
+            Assert.AreEqual(5, resultado.ValoracionMaxima);
         }
 
         [TestMethod]
@@ -37,7 +37,7 @@ namespace Valoraciones.Test
             libro.AgregarValoracion(1);
             libro.AgregarValoracion(0.5f);
             CalcularValoraciones resultado = libro.PublicarValoraciones();
-            Assert.AreEqual(0.5, resultado.valoracionMinima);
+            Assert.AreEqual(0.5, resultado.ValoracionMinima);
         }
 
         [TestMethod]
@@ -52,7 +52,7 @@ namespace Valoraciones.Test
             libro.AgregarValoracion(1);
             libro.AgregarValoracion(0.5f);
             CalcularValoraciones resultado = libro.PublicarValoraciones();
-            Assert.AreEqual(2.714286f, resultado.valoracionPromedio,0.01);
+            Assert.AreEqual(2.714286f, resultado.ValoracionPromedio,0.01);
         }
 
     }
