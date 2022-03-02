@@ -9,18 +9,29 @@ namespace Valoraciones
     }
     public class LibroValoraciones
     {
+        private string _valoracionesLetras;
+        public string ValoracionesLetras
+        {
+            get
+            {
+                return _valoracionesLetras;
+            }
+        }
+
         private string _nombre;
         public string Nombre
         {
-            get {
+            get
+            {
                 return _nombre;
             }
-            set {
+            set
+            {
                 if (!String.IsNullOrEmpty(value))
                 {
                     _nombre = value;
                 }
-            }   
+            }
         }
         public IdiomaLibro Idioma;
         private List<float> valoraciones;
@@ -45,7 +56,34 @@ namespace Valoraciones
                 sumaValoraciones += valoracion;
             }
             calculo.ValoracionPromedio = sumaValoraciones / valoraciones.Count;
+
+            AsignarLetraValoracion(calculo.ValoracionPromedio);
+
             return calculo;
+        }
+
+        private void AsignarLetraValoracion(float VL)
+        {
+            if (VL <= 5 && VL > 4)
+            {
+                _valoracionesLetras = "A";
+            }
+            else if (VL <= 4 && VL > 3)
+            {
+                _valoracionesLetras = "B";
+            }
+            else if (VL <= 3 && VL > 2)
+            {
+                _valoracionesLetras = "C";
+            }
+            else if (VL <= 2 && VL > 1)
+            {
+                _valoracionesLetras = "D";
+            }
+            else //if (VL<=1 && VL >= 0){
+                _valoracionesLetras = "E";
         }
     }
 }
+
+

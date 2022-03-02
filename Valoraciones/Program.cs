@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Speech.Synthesis;
+using Valoraciones.EstructurasDeControl;
 
 namespace Valoraciones
 {
@@ -44,8 +45,34 @@ namespace Valoraciones
             // promedioValoraciones
             EscribirValoraciones("Promedio: ", promedioValoraciones);
 
+            EscribirValoraciones("La letra de tu valoracion es: " + libro.ValoracionesLetras);
+
+            //Estructuras de Control Switch Case
+            SwitchCase misCasos = new SwitchCase();
+            misCasos.EjemploSwitchCase1();
+            misCasos.EjemploSwitchCase2(); 
+            misCasos.EjemploSwitchCase3();
+
+            //Bucles
+            Bucles miBucle = new Bucles();
+            miBucle.BuclesForEach();
+            miBucle.BuclesForLoop();
+            miBucle.BuclesWhlie();
+            miBucle.BuclesDoWhile();
+
             //Console.Beep();
+
+            //Estructuras condicionales
+            Condicionales condicionales = new Condicionales();
+            condicionales.ComprobacionesConRetorno();
+
             Console.ReadLine();
+
+        }
+
+        private static void EscribirValoraciones(string descripcion)
+        {
+            Console.WriteLine(descripcion);
         }
 
         private static void EscribirValoraciones(string descripcion, float valoracion)
